@@ -80,7 +80,7 @@ export default function ProjectsSection() {
         descriptions: "This website is built with Next.js and Tailwind CSS to display my projects, certificates, and organizational experiences. It features interactive UI, dark mode, and animated transitions using Framer Motion.",
       },
       hasLink: true,
-      link: "https://windy-portfolio.vercel.app/", // ganti dengan link portfolio kamu jika sudah online
+      link: "https://www.windyds.my.id/", // ganti dengan link portfolio kamu jika sudah online
       noDetail: true, // penanda khusus
     },
   ]
