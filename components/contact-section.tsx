@@ -68,7 +68,7 @@ export default function ContactSection() {
     {
       name: "LinkedIn",
       icon: <Linkedin className="h-5 w-5" />,
-      href: "https://linkedin.com/in/windy-destiana",
+      href: "https://www.linkedin.com/in/windy-destiana-sari-b41417371/",
       description: "Professional Network",
       color: "bg-blue-100 text-blue-600 border-blue-200",
       hoverColor: "hover:bg-blue-200",
