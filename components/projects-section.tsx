@@ -36,6 +36,22 @@ export default function ProjectsSection() {
     },
     {
       id: 2,
+      title: "Facial Expression Detection App",
+      description: "A cross-platform Flutter app that detects facial expressions using an AI model.",
+      fullDescription: "A mobile and desktop application built with Flutter that allows users to upload a photo and detect their facial expression using a TensorFlow Lite model. The app uses Google ML Kit for face detection, supports custom UI themes, and features clean animations and custom fonts.",
+      category: "Mobile Development",
+      tools: ["Flutter", "TFLite", "Google ML Kit", "Dart"],
+      image: "/images/aitubess.png",
+      details: {
+        duration: "2 weeks",
+        role: "Mobile Developer (Frontend & AI Integration)",
+        descriptions: "A Flutter-based mobile and desktop app that detects facial expressions from a photo using a TFLite model, with face detection powered by Google ML Kit.",
+      },
+      hasLink: true,
+      link: "https://github.com/wndydsr/flutter-ai-expression",
+    },
+    {
+      id: 3,
       title: "Bookstown UI/UX",
       description: "UI/UX design for Bookstown app.",
       fullDescription: "Designed a user-friendly interface for Bookstown, an online bookstore app, focusing on intuitive navigation and engaging user experience.",
@@ -51,7 +67,7 @@ export default function ProjectsSection() {
       link: "https://www.figma.com/proto/jSxqhm7VsGQWisEW9Q5KWB/SuperShy_BooksTown?node-id=25-6&p=f&t=BPC52qNXvYoDEIGn-0&scaling=scale-down&content-scaling=fixed&page-id=25%3A2&starting-point-node-id=25%3A3",
     },
     {
-      id: 3,
+      id: 4,
       title: "Flexy App",
       description: "UI/UX design for Flexy app.",
       fullDescription: "Designed a modern and responsive interface for Flexy, a flexible workspace management app, focusing on user engagement and ease of use.",
@@ -67,7 +83,7 @@ export default function ProjectsSection() {
       link: "https://www.figma.com/proto/lwnoA9GxUdOjM9XEPhOlPV/flexyApp?node-id=100-97&p=f&t=rCrlNTL5snRJqv5Y-0&scaling=scale-down&content-scaling=fixed&page-id=27%3A25&starting-point-node-id=100%3A97&show-proto-sidebar=1",
     },
     {
-      id: 4,
+      id: 5,
       title: "Personal Portfolio Website",
       description: "A responsive portfolio website to showcase my projects, certificates, and experiences.",
       fullDescription: "This website is built with Next.js and Tailwind CSS to display my projects, certificates, and organizational experiences. It features interactive UI, dark mode, and animated transitions using Framer Motion.",
