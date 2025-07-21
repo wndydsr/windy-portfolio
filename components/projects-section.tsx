@@ -41,7 +41,7 @@ export default function ProjectsSection() {
       fullDescription: "A mobile and desktop application built with Flutter that allows users to upload a photo and detect their facial expression using a TensorFlow Lite model. The app uses Google ML Kit for face detection, supports custom UI themes, and features clean animations and custom fonts.",
       category: "Mobile Development",
       tools: ["Flutter", "TFLite", "Google ML Kit", "Dart"],
-      image: "/images/aitubess.png",
+      image: "/images/aitubes.png",
       details: {
         duration: "2 weeks",
         role: "Mobile Developer (Frontend & AI Integration)",
