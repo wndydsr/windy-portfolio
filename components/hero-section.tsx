@@ -55,7 +55,7 @@ export default function HeroSection() {
                 variant="outline"
                 className="border-2 border-purple-200 text-purple-600 hover:bg-purple-50 rounded-full px-6 py-2 transition-all duration-300"
               >
-                <a href="/windy-cv.pdf" download>
+                <a href="/cvwindy.pdf" download>
                   Download CV
                   <Download className="ml-2 h-4 w-4" />
                 </a>
