@@ -24,7 +24,7 @@ export default function ProjectsSection() {
       description: "Frontend & Backend web app built with Laravel.",
       fullDescription: "A comprehensive web application for conducting online exams, featuring user authentication, question banks, real-time grading, and detailed analytics.",
       category: "Full Stack Development",
-      tools: ["Laravel", "JavaScript", "PHP"],
+      tools: ["Laravel", "JavaScript", "PHP", "Figma"],
       image: "/images/exam.png",
       details: {
         duration: "6 months",

@@ -19,7 +19,7 @@ export default function Footer() {
               variant="ghost"
               className="text-blue-200 hover:bg-blue-800 hover:text-blue-100 mb-2 transition-all duration-300"
             >
-              <a href="/windy-cv.pdf" download>
+              <a href="/cvwindy.pdf" download>
                 Download CV <Download className="ml-1 h-4 w-4" />
               </a>
             </Button>
